@@ -103,14 +103,14 @@ h1 {
 }
 
 .service {
-	background-image: url(assets/img-banner@2x.png);
+	background-image: url(assets/black-abstract-background-wallpaper-image.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
 }
 
 .about {
-	background-image: url(assets/DSC_0036.JPG);
+	background-image: url(assets/6045432.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -132,7 +132,7 @@ h1 {
 }
 
 .faq {
-	background-image: url(assets/img-prop-type@2x.jpg);
+	background-image: url(assets/provincia-mendoza-jumbotron.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
